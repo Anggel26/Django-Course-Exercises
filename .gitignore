@@ -1,0 +1,14 @@
+# Ignorar archivos de sistema y entornos
+__pycache__/
+*.py[cod]
+.DS_Store
+venv/
+env/
+.env
+
+# Ignorar base de datos local
+db.sqlite3
+
+# Ignorar configuraciones de editor
+.vscode/
+.idea/
